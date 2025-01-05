@@ -1,5 +1,5 @@
 # R/Place Vision Transformer Experiment
-// Still in progress
+// Still in progress //
 This project explores Vision Transformers (ViTs) for predicting pixel changes on the 2022 Reddit Place canvas. Using a dataset of every pixel change, I’m building models to predict future colors and the time until the next change. It’s still a work in progress, and I’m actively experimenting with architectures and training strategies.
 
 ## Dataset
