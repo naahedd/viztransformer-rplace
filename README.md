@@ -6,6 +6,7 @@ This project explores Vision Transformers (ViTs) for predicting pixel changes on
 The R/Place dataset is preprocessed into SQLite partitions for faster queries. Two PyTorch datasets are used:
 - **ColorDataset**: Predicts the future color of the center pixel.
 - **TimeDataset**: Predicts the time until the next pixel change.
+- [Dataset](https://www.reddit.com/r/place/comments/txvk2d/rplace_datasets_april_fools_2022/)
 
 ## Model
 The Vision Transformer combines:
